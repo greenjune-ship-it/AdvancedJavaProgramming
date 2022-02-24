@@ -1,4 +1,4 @@
-package queueexample;
+package advanced_data_structures.queueexample;
 
 import java.util.LinkedList;
 

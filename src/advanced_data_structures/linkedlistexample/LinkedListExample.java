@@ -1,4 +1,4 @@
-package linkedlistexample;
+package advanced_data_structures.linkedlistexample;
 
 import java.util.LinkedList;
 

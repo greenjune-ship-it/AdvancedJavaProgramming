@@ -1,4 +1,4 @@
-package hashmapexample;
+package advanced_data_structures.hashmapexample;
 
 import java.util.HashMap;
 

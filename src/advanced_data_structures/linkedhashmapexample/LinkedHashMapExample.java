@@ -1,4 +1,4 @@
-package linkedhashmapexample;
+package advanced_data_structures.linkedhashmapexample;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
