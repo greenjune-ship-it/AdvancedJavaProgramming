@@ -1,19 +1,20 @@
-package wildcards;
+package generics_in_java.wildcards;
 
-public class Building {
+public class House extends Building {
 
-    public int numberOfRooms = 7;
+    public int numberOfRooms = 10;
 
     @Override
     public String toString() {
-        return ("building");
+        return ("house");
     }
 
     public int getNumberOfRooms() {
         return numberOfRooms;
     }
 
-    public void setNumberOfRooms(int numberOfRooms) {
+    public void setNumberOfRooms() {
         this.numberOfRooms = numberOfRooms;
     }
+
 }

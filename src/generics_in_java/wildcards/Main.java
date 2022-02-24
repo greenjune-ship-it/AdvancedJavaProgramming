@@ -1,4 +1,4 @@
-package wildcards;
+package generics_in_java.wildcards;
 
 import java.util.ArrayList;
 import java.util.List;

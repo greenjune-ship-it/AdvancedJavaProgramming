@@ -1,4 +1,4 @@
-package wildcards;
+package generics_in_java.wildcards;
 
 public class Office extends Building {
 

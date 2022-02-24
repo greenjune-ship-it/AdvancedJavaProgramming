@@ -1,4 +1,4 @@
-package varargs;
+package generics_in_java.varargs;
 
 public class Varargs {
 
