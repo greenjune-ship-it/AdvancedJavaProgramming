@@ -4,3 +4,4 @@
 
 * Generics in Java
 * Advanced Data Structures
+* Functional Programming in Java
