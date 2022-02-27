@@ -15,7 +15,6 @@ public class Library {
         }).forEach(System.out::println);
     }
 
-
     static ArrayList<Book> populateLibrary() {
         ArrayList<Book> books = new ArrayList();
         books.add(new Book("Jonh Steinbeck", "East of Eden"));
