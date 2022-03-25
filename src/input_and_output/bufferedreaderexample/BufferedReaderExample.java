@@ -1,4 +1,4 @@
-package multithreading_in_java.bufferedreaderexample;
+package input_and_output.bufferedreaderexample;
 
 import java.io.BufferedReader;
 import java.io.File;

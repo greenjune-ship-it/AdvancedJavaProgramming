@@ -1,4 +1,4 @@
-package multithreading_in_java.scannerexample;
+package input_and_output.scannerexample;
 
 import java.util.Scanner;
 
